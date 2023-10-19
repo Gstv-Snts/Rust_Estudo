@@ -1,0 +1,1 @@
+/home/gustavo/Documents/Rust_Estudo/defining_and_instantiating_structs/target/debug/defining_and_instantiating_structs: /home/gustavo/Documents/Rust_Estudo/defining_and_instantiating_structs/src/main.rs
