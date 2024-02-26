@@ -44,7 +44,15 @@ fn main() {
     println!("The value of v1.2 is {}", v1.2);
 
     //unit-like struct
-    //struct Unit;
+    struct AlwaysEqual;
+    let _subject = AlwaysEqual;
+
+    let _person1 = Person {
+        id: 1,
+        age: 23,
+        name: "Gustavo".to_string(),
+        email: "gustavosantossilveira12360@gmail.com".to_string(),
+    };
 }
 
 fn build_person(name: String, age: u8, email: String, id: u32) -> Person {
