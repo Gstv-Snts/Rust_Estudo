@@ -1,0 +1,1 @@
+/home/gustavo/Documents/rust_Estudo/backyard/target/debug/backyard: /home/gustavo/Documents/rust_Estudo/backyard/src/garden/vegetables.rs /home/gustavo/Documents/rust_Estudo/backyard/src/garden.rs /home/gustavo/Documents/rust_Estudo/backyard/src/main.rs
