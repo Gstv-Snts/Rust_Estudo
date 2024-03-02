@@ -29,11 +29,8 @@ enum Estado {
 #[derive(Debug)]
 enum Coin {
     UmCentavo,
-    CincoCentavos,
-    DezCentavos,
     VinteCincoCentavos,
     CinquentaCentavos(Estado),
-    UmReal,
 }
 impl Coin {
     fn get_value(&self) -> i8 {
@@ -42,8 +39,6 @@ impl Coin {
                 println!("Returning 1 cent!");
                 1
             }
-            Coin::CincoCentavos => 5,
-            Coin::DezCentavos => 10,
             Coin::VinteCincoCentavos => 25,
             Coin::CinquentaCentavos(estado) => {
                 match estado {
@@ -62,7 +57,6 @@ impl Coin {
                 };
                 50
             }
-            Coin::UmReal => 100,
         }
     }
 }
@@ -122,7 +116,7 @@ fn main() {
     name = None;
     if let Some(name) = &name {
         println!("The name is {}", name);
-    }else{
+    } else {
         println!("There is no name");
     }
 }
