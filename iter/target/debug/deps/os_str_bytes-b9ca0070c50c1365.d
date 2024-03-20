@@ -1,0 +1,10 @@
+/home/gustavo/Documents/Rust_Estudo/iter/target/debug/deps/libos_str_bytes-b9ca0070c50c1365.rmeta: /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/lib.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/common/mod.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/common/raw.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/iter.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/pattern.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/raw_str.rs
+
+/home/gustavo/Documents/Rust_Estudo/iter/target/debug/deps/os_str_bytes-b9ca0070c50c1365.d: /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/lib.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/common/mod.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/common/raw.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/iter.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/pattern.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/raw_str.rs
+
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/lib.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/common/mod.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/common/raw.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/iter.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/pattern.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/os_str_bytes-6.6.1/src/raw_str.rs:

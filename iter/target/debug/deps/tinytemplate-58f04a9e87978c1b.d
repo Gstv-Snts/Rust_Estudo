@@ -1,0 +1,10 @@
+/home/gustavo/Documents/Rust_Estudo/iter/target/debug/deps/libtinytemplate-58f04a9e87978c1b.rmeta: /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/lib.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/compiler.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/error.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/instruction.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/syntax.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/template.rs
+
+/home/gustavo/Documents/Rust_Estudo/iter/target/debug/deps/tinytemplate-58f04a9e87978c1b.d: /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/lib.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/compiler.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/error.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/instruction.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/syntax.rs /home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/template.rs
+
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/lib.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/compiler.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/error.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/instruction.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/syntax.rs:
+/home/gustavo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tinytemplate-1.2.1/src/template.rs:
