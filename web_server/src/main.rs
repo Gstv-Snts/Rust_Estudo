@@ -4,12 +4,18 @@ use std::{
     net::{TcpListener, TcpStream},
 };
 
+use web_server::ThreadPool;
+
 fn main() {
     let listiner = TcpListener::bind("127.0.0.1:42068").unwrap(); // almost
-    for stream in listiner.incoming() {
+    let pool = ThreadPool::new(4);
+    for stream in listiner.incoming().take(2) {
         let stream = stream.unwrap();
-        handle_connection(stream)
+        pool.execute(|| {
+            handle_connection(stream);
+        })
     }
+    println!("Shutting down!");
 }
 fn handle_connection(mut stream: TcpStream) {
     let buf_reader = BufReader::new(&mut stream);

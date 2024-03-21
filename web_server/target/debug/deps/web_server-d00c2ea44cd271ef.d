@@ -1,0 +1,5 @@
+/home/gustavo/Documents/Rust_Estudo/web_server/target/debug/deps/libweb_server-d00c2ea44cd271ef.rmeta: src/lib.rs
+
+/home/gustavo/Documents/Rust_Estudo/web_server/target/debug/deps/web_server-d00c2ea44cd271ef.d: src/lib.rs
+
+src/lib.rs:
