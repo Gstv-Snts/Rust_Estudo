@@ -1,1 +1,1 @@
-/home/gustavo/Documents/Rust_Estudo/too_many_lists/target/debug/libtoo_many_lists.rlib: /home/gustavo/Documents/Rust_Estudo/too_many_lists/src/lib.rs
+/home/gustavo/Documents/Rust_Estudo/too_many_lists/target/debug/libtoo_many_lists.rlib: /home/gustavo/Documents/Rust_Estudo/too_many_lists/src/bad_stack.rs /home/gustavo/Documents/Rust_Estudo/too_many_lists/src/lib.rs /home/gustavo/Documents/Rust_Estudo/too_many_lists/src/ok_stack.rs /home/gustavo/Documents/Rust_Estudo/too_many_lists/src/persistent_stack.rs
